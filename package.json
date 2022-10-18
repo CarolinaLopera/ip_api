@@ -1,0 +1,25 @@
+{
+  "name": "ip_api",
+  "version": "1.0.0",
+  "description": "This is a project to see ip every certain time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolinaLopera/ip_api.git"
+  },
+  "author": "Carolina Lopera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarolinaLopera/ip_api/issues"
+  },
+  "homepage": "https://github.com/CarolinaLopera/ip_api#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
